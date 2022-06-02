@@ -1,0 +1,19 @@
+body {
+	background:#bf91ed;
+	color: white;
+	font-size:	22px;
+	font-family: 'Heebo', sans-serif;
+}
+
+h1{
+		text-align:center;
+		color:black;
+		font-family: 'Heebo', sans-serif;
+}
+
+img{ 
+	display:block;
+	margin-left: auto;
+	margin-right: auto;
+	-webkit-box-reflect: left 0px
+}
