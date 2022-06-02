@@ -17,3 +17,15 @@ img{
 	margin-right: auto;
 	-webkit-box-reflect: left 0px
 }
+
+a{
+	color: whitesmoke;
+}
+
+a:hover{
+	color:rgba(0, 0, 0, 0.874);
+}
+
+a:visited{
+	color:yellow;
+}
